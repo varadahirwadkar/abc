@@ -4,4 +4,4 @@ feature added
 change 3
 change 4
 change 5 edited
-change 6
+change 6 edit
